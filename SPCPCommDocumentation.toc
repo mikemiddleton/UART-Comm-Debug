@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Overview}{3}
+\contentsline {section}{\numberline {2}Code Reorganization}{4}
+\contentsline {subsection}{\numberline {2.1}Interrupt Service Routines}{4}
+\contentsline {subsection}{\numberline {2.2}Generalized Delay Solution}{5}
+\contentsline {section}{\numberline {3}Faster Baud Rates}{5}
+\contentsline {section}{\numberline {A}CP Code Modifications}{6}
+\contentsline {subsection}{\numberline {A.1}SP.c (Current Revision)}{6}
+\contentsline {subsection}{\numberline {A.2}SP.h (Current Revision)}{10}
+\contentsline {subsection}{\numberline {A.3}irupt.c (Previous Revision)}{10}
+\contentsline {subsection}{\numberline {A.4}irupt.c (Current Revision)}{12}
+\contentsline {section}{\numberline {B}SP Code Modifications}{13}
+\contentsline {subsection}{\numberline {B.1}comm.c (Current Revision)}{13}
+\contentsline {subsection}{\numberline {B.2}comm.c (Current Revision)}{16}
+\contentsline {subsection}{\numberline {B.3}comm.h (Previous Revision)}{16}
+\contentsline {subsection}{\numberline {B.4}comm.h (Current Revision)}{16}
